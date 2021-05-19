@@ -5,3 +5,4 @@ Littlstream was a service to stream 3D SBS VR videos from your computer to Plays
 
 This service is no longer available. Feel free to do whatever with the code.
 
+Client side: https://github.com/Sloy/littlstream-desktop/
